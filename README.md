@@ -17,7 +17,7 @@ The objective is to build a simple platform to upload and view files:
 
 ## Authors
 
-- [@Thomasyong11](https://github.com/Thomasyong11)
+- [@Adjamkwalim Akum-Yong](https://github.com/Thomasyong11)
 
 ## Resources
 
